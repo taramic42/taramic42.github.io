@@ -1,0 +1,17 @@
+body{
+background-color:rgb(48,48,41);
+}
+html{
+	color:white;
+	text-align:center;
+	font-family:calibri;
+	font-weight:bold;
+}
+p{
+	padding-left:50px;
+	padding-right:50px;
+	text-justify:auto;
+}
+a{
+	color:green;
+}
